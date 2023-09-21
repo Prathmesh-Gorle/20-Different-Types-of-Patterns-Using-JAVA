@@ -5,7 +5,7 @@ public class O_Pyramid_withDifferentNumberinRow {
                 System.out.print(" ");
             }
             for (int j = 1; j <= i; j++) {
-                System.out.print(j + " "); // here we take i hence same number is printed in row
+                System.out.print(j + " "); // here we take j hence Different number is printed in row
             }
             System.out.println();
 
